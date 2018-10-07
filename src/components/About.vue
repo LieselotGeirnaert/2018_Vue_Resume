@@ -54,7 +54,7 @@
                 <font-awesome-icon icon="circle" />
                 <font-awesome-icon icon="circle" />
                 <font-awesome-icon icon="circle" />
-                <font-awesome-icon :icon="['far', 'circle']" />
+                <font-awesome-icon icon="circle" />
                 <font-awesome-icon :icon="['far', 'circle']" />
                 <p class="space"></p>
             </div>

@@ -9,6 +9,17 @@
             <div class="row">
                 <div class="col-left">
                     <p class="current">present</p>
+                    <p>2018</p>
+                </div>
+                <div class="col-right">
+                    <font-awesome-icon icon="circle" class="point"/>
+                    <h4>DEVINE Digital Design and Development </h4>
+                    <p><font-awesome-icon icon="location-arrow" />Howest Kortrijk</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <p class="current">present</p>
                     <p>2015</p>
                 </div>
                 <div class="col-right">
