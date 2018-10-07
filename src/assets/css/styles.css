@@ -75,10 +75,6 @@ h3 {
   width: 100%;
 }
 
-/* .hamburger {
-  display: none;
-} */
-
 #about, #it {
   background-color: #f7f7f7;
   float: left;
@@ -100,14 +96,6 @@ h3 {
 /*===========================
   Navigation
 ============================ */
-.navbar--full {
-  visibility: visible;
-}
-
-.navbar--mobile {
-  visibility: hidden;
-}
-
 .navbar {
   background-color: #f7f7f7;
   overflow: hidden;
@@ -418,12 +406,13 @@ h3 {
 ============================ */
 #download {
   background-color: #404040;
-  bottom: 0;
-  position: fixed;
+  color: #f7f7f7;
+  float: left;
+  text-align: center;
   width: 100%;
 }
 
-#download div {
+/* #download div {
   display: flex;
   flex-wrap: wrap;
   float: left;
@@ -450,24 +439,32 @@ h3 {
   color: #afebe4;
   float: left;
   padding: 1px 10px;
-}
+} */
 
 /*===========================
   Mobile
 ============================ */
+.navbar--full {
+  display: block;
+}  
+.navbar--mobile {
+  display: block;
+}
+
+@media (min-width: 600px) {
+  .navbar--full {
+    display: block;
+  }  
+  .navbar--mobile {
+    display: none;
+  }
+}
 @media (max-width: 860px) {
   .intro h1 {
     font-size: 50px;
   }
 }
 @media (max-width: 600px) {
-  .navbar--full {
-    visibility: hidden;
-  }
-  
-  .navbar--mobile {
-    visibility: visible;
-  }
   .intro h1 {
     font-size: 40px;
     letter-spacing: 15px;
@@ -479,14 +476,30 @@ h3 {
     width: 100%;
   }
 
-  #download div {
-    width: 100%;
-  }
-
   .hamburger {
     cursor: pointer;
     float: right;
     margin: 10px;
+  }
+
+  .navbar--full {
+    display: none;
+  }
+
+  .navbar--mobile {
+    display: block;
+  }
+}
+
+@media (max-width: 400px) {
+  .intro {
+    height: 50vh;
+  }
+
+  .intro h1 {
+    font-size: 35px;
+    letter-spacing: 10px;
+    margin-bottom: -10px;
   }
 }
 
