@@ -21,21 +21,6 @@
                     <p><font-awesome-icon icon="globe" /><a href="http://2018.summerofcode.be/">Open Summer of Code</a> | <a href="https://www.openknowledge.be/">Open Knowledge</a></p>
                 </div>
             </div>
-            <!-- <div class="row">
-                <div class="col-left">
-                    <p class="current">present</p>
-                    <p>2018</p>
-                </div>
-                <div class="col-right">
-                    <font-awesome-icon icon="circle" class="point"/>
-                    <h4>Würst</h4>
-                    <h5>catering</h5>
-                    <p>During my free time I work a few hours at Würst, Jeroen Meus's 'haute dog' restaurant.
-                    Here, I learned to work neat and precise.
-                    </p>
-                    <p><font-awesome-icon icon="globe" /><a href="https://www.wurstdogs.be/">Würst</a></p>
-                </div>
-            </div> -->
             <div class="row">
                 <div class="col-left">
                     <p class="current">present</p>
