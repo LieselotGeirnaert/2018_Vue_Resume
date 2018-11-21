@@ -17,7 +17,7 @@
             <div class="col-4">
                 <h3>basic knowledge</h3>
                 <img src="../assets/img/basic.png" alt="basic knowledge">
-                <p>.NET | JavaScript |</p>
+                <p>JavaScript |</p>
                 <p>SASS | Git |</p>
                 <p>Bootstrap | Material Design |</p>
                 <p>Arduino</p>
@@ -27,7 +27,7 @@
                 <img src="../assets/img/intro.png" alt="introduction">
                 <p>Vue.js | LINQ |</p>
                 <p>JQuery | Photoshop |</p>
-                <p>GULP | Docker</p>
+                <p>GULP | Docker | .NET</p>
             </div>
         </div>
     </div>

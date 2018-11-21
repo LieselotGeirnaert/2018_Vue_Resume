@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-right">
                     <font-awesome-icon icon="circle" class="point"/>
-                    <h4>DEVINE Digital Design and Development </h4>
+                    <h4>professional bachelor Digital Design and Development (devine)</h4>
                     <p><font-awesome-icon icon="location-arrow" />Howest Kortrijk</p>
                 </div>
             </div>

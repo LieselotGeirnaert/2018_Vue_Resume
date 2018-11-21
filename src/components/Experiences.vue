@@ -21,7 +21,7 @@
                     <p><font-awesome-icon icon="globe" /><a href="http://2018.summerofcode.be/">Open Summer of Code</a> | <a href="https://www.openknowledge.be/">Open Knowledge</a></p>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-left">
                     <p class="current">present</p>
                     <p>2018</p>
@@ -35,7 +35,7 @@
                     </p>
                     <p><font-awesome-icon icon="globe" /><a href="https://www.wurstdogs.be/">Würst</a></p>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-left">
                     <p class="current">present</p>
@@ -50,13 +50,13 @@
                     <p>After many years of doing gymnatics myself, I became the coach of two groups of 20 little girls each, aged 6 and 10 years.
                     After 2 year I became the headcoach of all of the boy- and girlgroups between 5 and 12 years.
                     This means I am the point of contact for the parents and children, make the training- and equipmentschedules for each group and
-                    set meetings with the trainers and board.</p>
-                    <p><font-awesome-icon icon="globe" /><a href="https://www.facebook.com/RapenVrank/?ref=br_rs">Rap&Vrank Evergem</a></p>
+                    set meetings with the trainers and board.<br> In 2018 I became part of the board myself and started developing a new website for the club.</p>
+                    <p><font-awesome-icon icon="globe" /><a href="https://www.rapenvrank.be">Rap&Vrank Evergem</a></p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-left">
-                    <p class="current">September 2018</p>
+                    <p>September 2018</p>
                     <p>September 2017</p>
                 </div>
                 <div class="col-right">
@@ -70,7 +70,7 @@
             </div>
             <div class="row">
                 <div class="col-left">
-                    <p class="current">July 2018</p>
+                    <p>July 2018</p>
                     <p>July 2017</p>
                     <p>July 2016</p>
                 </div>
